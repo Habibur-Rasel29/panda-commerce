@@ -51,9 +51,13 @@
     background-color: white;
     border-top: none;
 }
-#subscribe{
+#Subscribe{
     height: 300px;
 }
 #subscribe h6{
     color: gray;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
 }
